@@ -6,5 +6,7 @@
 * create your readme and stage it using git add .
 * commit the changes using git commit -m "commit messages"
 * push the changes to reflect on the github server repo
-
-That will  be all for now more commands coming soon 
+* git log to check history of commit 
+* git checkout -b branch_name to created and switch to a branch
+* git branch to Chech the branch your are.
+* git status to check stage changes
