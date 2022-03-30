@@ -6,3 +6,5 @@
 * create your readme and stage it using git add .
 * commit the changes using git commit -m "commit messages"
 * push the changes to reflect on the github server repo
+
+That will  be all for now more commands coming soon 
